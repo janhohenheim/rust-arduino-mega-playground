@@ -6,7 +6,7 @@ edition = "2021"
 license = "MIT OR Apache-2.0"
 
 [[bin]]
-name = "rust-arduino-mega-playground"
+name = "blink"
 test = false
 bench = false
 
